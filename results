@@ -7,62 +7,76 @@ RF_exon_tree_97.treefile        6
 ./exon_alignment_186:>uc001hhe.4_hg38_10_11 425 0 2 chr1:209611792-209612216+
 ./exon_alignment_186-CAAGCCTTCAACGCAGCAGCTGTGGTGCACCACATGAGGAAGCTACACATGAACCTGCACAGCCCGGGCGTCCGCCCAGAGGTGGAGAACAGGCCGCCTGAAACTCAAGCCTCAGAAACCTCTAGACCCAGCTCCCCTGAGATCACCATCACCGAGGCACCTGTCCTGGACCACAGTGTAGCACTCCCTGCCCTGACCCAATTACCCTGCCAGCATGGCCGCCGGCCCACTGCCCCTGGTGGCAGGTCCCTCAACTGCCTGGTCAATGGCTCCCTCCACATCAGCAGCAGCCTGGTGCCCATGCATCAGGGGTCCCTGGCCGCCGGGCCCTGTGGCTGCTGCTCCAGCTGCCTGAACATTGGGAGCAAAGGAAAGTCCTCCTACTGCTCTGAGCCCACACTCCTCAAAAAGGCCAACAAAAAACA
 GeneID:57172, calcium/calmodulin-dependent protein kinase
+Calcium/calmodulin-dependent protein kinase (CaMK) is a family of serine/threonine protein kinases activated by the binding of calcium and calmodulin. In humans, the CaMK family includes several isoforms, with CaMKII, CaMKIV, and CaMKI being the most well-known. These kinases play a crucial role in various cellular processes, such as signal transduction, synaptic plasticity, learning, memory, and muscle contraction. They are involved in regulating the activity of other proteins through phosphorylation in response to calcium signaling. Dysregulation of CaMKs has been implicated in various diseases, including neurodegenerative disorders, heart disease, and cancer. Their activity is tightly controlled and influenced by cellular calcium levels.
 
 RF_exon_tree_23.treefile        8
 ./exon_alignment_119:>uc001ecd.4_hg38_1_15 205 0 1 chr1:112618909-112619113-
 ./exon_alignment_119-ATGGCGGACCGTGGCGGCGTGGGTGAAGCCGCAGCTGTTGGAGCGTCTCCTGCATCTGTCCCTGGCCTAAACCCGACGCTAGGCTGGAGGGAGCGACTGCGGGCCGGGCTGGCGGGGACTGGGGCCTCGTTGTGGTTCGTGGCGGGGCTGGGGCTGCTTTACGCCCTGAGGATCCCTTTGAGGCTGTGTGAGAATTTGGCAGCGG
 GeneID:54879, suppressor of tumorigenicity 7 protein
+Suppressor of Tumorigenicity 7 (ST7) is a gene in humans that encodes a protein involved in regulating tumor suppression. It is considered a tumor suppressor and is located on chromosome 7. ST7 plays a role in inhibiting cell growth and promoting apoptosis in response to stress signals. It has been linked to various cancers, including breast and colon cancer, where its expression is often downregulated. The protein is thought to act through the regulation of cell cycle progression and by interacting with signaling pathways that control cell survival. ST7’s reduced expression or loss has been associated with the promotion of tumorigenesis.
 
 RF_exon_tree_24.treefile        8
 ./exon_alignment_12:>uc001ggs.5_hg38_12_13 695 1 0 chr1:169854270-169854964-
 ./exon_alignment_12-GCGATCCATTTTCTCAGCCTATTAAATTTCCCATAAATGGACTCTCAGATGTAAAAAATACTTCGGAGGACAGTGAAAACTTCCCATCAAGTTCTAAAAAGTCTGAGGAGTGGCCTGACTGGAGTGAACCTGAGGAGCCTGAAAATCAAACTGTCAACATACAGATTTGGCCTAGAGAACCTTGTGATGATGTCAAGTCCCAGTGCACTACCTTGGATGTGGAAGAGTCATCTTGGGATGACTGCGAGCCCAGCAGCTTAGATACTAAAGTAAACCCAGGAGGTGGAATCACTGCTACAAAACCTGTTACCTCAGGGGAGCAGAAGCCTATTCCTGCTTTGCTTTCACTCACTGAAGAGTCTATGCCTTGGAAATCAAGCTTACCCCAAAAGATTAGCCTTGTACAAAGGGGGGATGACGCAGACCAAATCGAGCCGCCAAAAGTGTCATCACAAGAAAGGCCCCTTAAGGTTCCATCAGAACTTGGTTTAGGAGAGGAATTCACCATTCAAGTAAAAAAGAAGCCAGTAAAAGATCCTGAGATGGATTGGTTTGCTGATATGATCCCAGAAATTAAGCCTTCTGCTGCTTTTCTTATATTACCTGAACTGAGGACAGAAATGGTCCCAAAAAAGGATGATGTCTCCCCAGTGATGCAGTTTTCCTCAAAATTTGCTGCAGCAGAAATTACTGAG
 GeneID:57147, pseudokinase 3
+Pseudokinase 3 (PNKP) is a gene in humans that encodes a protein involved in DNA repair processes. PNKP functions as a pseudokinase, meaning it has a kinase-like domain but lacks the typical catalytic activity of a true kinase. It plays a crucial role in repairing DNA strand breaks, particularly in the repair of single-strand breaks in DNA. PNKP is involved in the base excision repair (BER) pathway and helps maintain genomic stability. Mutations in PNKP can lead to disorders such as neurodegeneration with brain iron accumulation (NBIA), as well as other neurodegenerative diseases.
 
 RF_exon_tree_314.treefile       8
 ./exon_alignment_313:>uc009wvz.4_hg38_8_8 343 2 0 chr1:171285202-171285544+
 ./exon_alignment_313-GTTTGGCTTGTGCTACTGCAAGGCTTTACAATCAGATTATATCACATACATAGATGAACTCCTGACCTATATCAATGCAAAACCCAACCTGTTCTCTATGCTCCTAACGGATCCACATCTGGCTCTGACCGTCTTCTTTGGCCCATGCTCACCATACCAGTTCCGCTTGACTGGCCCAGGAAAATGGGAAGGAGCCAGAAATGCCATCATGACCCAGTGGGACCGAACATTCAAGGTCATCAAAGCTCGAGTTGTACAAGAGTCTCCATCTCCCTTTGAAAGTTTTCTTAAAGTCTTTAGCTTTCTGGCTTTGCTTGTGGCTATTTTTCTGATTTTCCTATAA
 "GeneID:2326" flavin containing dimethylaniline monoxygenase 1
+Flavin-containing dimethylaniline monoxygenase 1 (FMO1) is a gene in humans that encodes an enzyme involved in the metabolism of xenobiotics and endogenous compounds. FMO1 is a member of the flavin-containing monooxygenase (FMO) family, which catalyzes the oxidation of nitrogen, sulfur, and phosphorus-containing compounds. Specifically, FMO1 plays a significant role in the oxidation of dimethylaniline and other substrates, facilitating their detoxification. It is predominantly expressed in the liver and kidneys. Variations in FMO1 expression or activity have been linked to differences in drug metabolism and susceptibility to certain toxins, though its activity is less studied compared to other FMO isoforms like FMO3.
 
 RF_exon_tree_78.treefile        8
 ./exon_alignment_169:>uc001ghi.3_hg38_8_8 343 2 0 chr1:171117100-171117442+
 ./exon_alignment_169-GTTTGGCAAAAGCGAGACCATACAGACAGATTACATTGTTTATATGGATGAACTCTCCTCCTTCATTGGGGCAAAGCCCAACATCCCATGGCTGTTTCTCACAGATCCCAAATTGGCCATGGAAGTTTATTTTGGCCCTTGTAGTCCCTACCAGTTTAGGCTGGTGGGCCCAGGGCAGTGGCCAGGAGCCAGAAATGCCATACTGACCCAGTGGGACCGGTCGTTGAAACCCATGCAGACACGAGTGGTCGGGAGACTTCAGAAGCCTTGCTTCTTTTTCCATTGGCTGAAGCTCTTTGCAATTCCTATTCTGTTAATCGCTGTTTTCCTTGTGTTGACCTAA
 GeneID:2328 flavin containing dimethylaniline monoxygenase 3
-
+Flavin-containing dimethylaniline monoxygenase 3 (FMO3) is a gene in humans that encodes an enzyme involved in the metabolism of xenobiotics and endogenous compounds. It is part of the flavin-containing monooxygenase (FMO) family, which catalyzes the oxidation of various substrates, including drugs, environmental toxins, and endogenous amines. FMO3 is primarily expressed in the liver and plays a key role in the detoxification process, particularly in the oxidation of tertiary amines. Mutations in the FMO3 gene are associated with a condition called trimethylaminuria (also known as fish odor syndrome), where the body cannot properly metabolize trimethylamine, leading to a strong body odor. FMO3 also influences the metabolism of several drugs and dietary components.
 
 The genes that produce phylogeny as similar as possible to the ‘concatenated alignment’ phylogeny are the following:
 
 RF_gene_tree_21.treefile        2
 "GeneID:23154" neurochondrin isoform 1
+It is expressed in neurons and play a significant role in neurodevelopment (neuronal growth and differentiation. this gene encode a very crusial protein and it makes absolute sense to be conservative in mammalians organism. 
 
 RF_gene_tree_22.treefile        2
 "GeneID:864" RUNX family transcription factor 3 (runt-related TF)
+encode a transcription factor that has a critical role  in development process. We know in general that gene implicate in cell differentiation process during development tend to be more conserved, since even small changes in protein function  can have a very strong impact for the organism.
 
 RF_gene_tree_26.treefile        2
 "GeneID:51177" pleckstrin homology domain containing O1
+encodes a protein that is regulating cellular signaling and cytoskeletal dynamics, same with the genes related to development processes, genes related to basic structur of cell, like the cytoskeletal tend also to be conserved, something that agree with out data.
 
 RF_gene_tree_2.treefile         2
 GeneID:7812, cold shock domain-containing protein e1 isoform 1
+encode a protein involved in the regulation of RNA stability and translation, which is a very important and conserve function between mammalians.
 
 RF_gene_tree_37.treefile        2
 "GeneID:55001" "tetratricopeptide repeat domain 22
+encode a protein containing tetratricopeptide repeats (TPRs), which are involved in mediating protein-protein interactions. This protein play a crusial role in basic cell processes like protein folding and stability, chaperone functions while also it is implicate in neurodevelopment 
 
 RF_gene_tree_9.treefile         2
 "GeneID:51603", eef1a lysine and n-terminal methyltransferase isoform 3
-
+Also, encode a gene important in  proteinosynthesis for tranlsation process and post-translation modifications
 
 The genes that produce phylogeny as different as possible to the ‘concatenated alignment’ phylogeny are the following:
 
 RF_gene_tree_20.treefile        10
 "GeneID:477", ATPase Na+/K+ transporting subunit alpha 2
+encode a subunit of the Na+/K+-ATPase pump
 
 RF_gene_tree_7.treefile 12
-"GeneID:55001" tetratricopeptide repeat domain 22
+GeneID:148304" TRAF3 interacting protein 3 (TRAF3IP3)
+this gene encode a protein involving in immunosystem, so the fact that this gene has a largest variance among organisms makes absolute sense, since in immunosystem we need more variance
 
 RF_gene_tree_12.treefile        14
 "GeneID:7482" Wnt family member 2B, suppressor of tumorigenicity 7 protein
+encode a protein that is involve in wnt signaling pathway, which is play an important role in cell growth, cancer progressin
 
 RF_gene_tree_39.treefile        16
 "GeneID:1870", E2F transcription factor 2
+encode a transcription factor that is involved in cell cycle regulation for the transition from G1 to S phase and also plays a role in signaling for apoptosis 
 
+To sum up, we oserved that genes involved in development processes, basic cell functions like transcription or translation and cell structure seem to be more conserved between species, which mean they had more pressure to maintain their functions during the evolution process. On the other side, genes involved in immunosystem processes have less pressure to maintain the same functions and are more likely to appear a variance. Finally, we showed that two genes (Wnt family member 2B, E2F transcription factor) related to cell proliferation and cancer progression tent to have the largest diversity among the genes we study and that can't explained so easily and from my prespective it deserve some more deep research on how this genes diverse among species and how this impact the function of the corresponding proteins.
 
-Explaining my code using chatgpt:
+On the other hand, as far as concerned the exon trees, we don't observed a certain pattern among the genes, the more concerve exons belong to and also, that genes are not actually so concerve as they are not matched with the genes we found as concerve from the gene trees. Maybe, how concerve an exon is between species doesn't have to do, with how concerve the gene is, but with important is this specific exon in the protein structure and function. For, example if an exon contain the sequence for an enzyme active domain of a protein and another exon of the same gene contain the sequence for an internal structure with no active domain, we expect the first exon to maintain less diversity, due to evolution pressure.  
